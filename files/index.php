@@ -53,7 +53,7 @@
   <div class="max-width-3 mx-auto pt4">
     <img src="logo.png" height="80" width="80" class="circle" />
     <div class="overflow-hidden">
-      <h1>Hello World!</h1>
+      <h1>Hello World and Captain Hook!</h1>
       <?php if(isset($_ENV["HOSTNAME"])) {?><h3>My hostname is <code><?php echo $_ENV["HOSTNAME"]; ?></code></h3><?php } ?>
       <?php
 
